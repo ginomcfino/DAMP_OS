@@ -1,0 +1,57 @@
+,Service,Category,Bundle
+1,Cell Transformation and Plate Verification of LB-agar Plate with Appropriate Resistance,7,
+2,Storage of Bacteria on LB Agar Plate with Appropriate Resistance,8,
+3,Clean Up and Concentrate DNA ,3,
+4,Ordering DNA Fragments from third-party,3,
+5,RNA Extraction ,3,
+6,In vivo 96-well Plate Format E. coli Growth w/ FL and Biomass Assay (Plate Reader),4,
+7,"Plasmid, DNA Fragments, and Oligos Storage",8,
+8,Plasmid DNA Miniprep ,3,
+9,Plasmid DNA Miniprep and Glycerol Stock,3,
+10,Plasmid DNA Midiprep,3,
+11,Plasmid DNA Maxiprep,3,
+12,Glycerol Stocks of Bacteria Cell Culture Storage,8,
+3,Prepare Liquid Culture Overnight Inoculum,7,
+4,Overnight Inoculums of Bacteria Cell Culture Storage,8,
+5,mRNA Enrichment,5,
+6,cDNA Library Preparation,5,
+7,DNA and RNA Quality Analysis with Bioanalyzer,5,
+8,"OpenTrons Robotic Liquid Handler assisted (OT-1 x2, OT-2 x1)",6,
+9,Hamilton Liquid Handling Robot assisted (STAR),6,
+10,Purify DNA from Reaction,3,
+11,Purify DNA from Agarose Gel Extraction,3,
+12,Rehydrate and Suspend Primers in Solution,3,
+13,Perform Gel Electrophoresis Analysis,3,
+14,RNA Sequencing (NGS) from Third Party,5,
+15,Send Sample to Sequencing,3,
+16,Design and Order Primers from Third Party,3,
+17,DNA/RNA Ethanol Precipitation,3,
+18,Gibson Assembly,1,
+19,Restriction Digestion,1,
+20,Restriction Ligation,1,
+21,Modular Cloning (Golden Gate),1,
+22,Modular Gibson Assembly,1,
+23,Mutagenesis,1,
+24,Mutagenesis by Inverse PCR,1,
+25,Perform PCR Reaction,2,
+26,Perform qPCR Reaction,4,
+27,E. coli LB Growth Media,7,
+28,E. coli X Agar Plate Media + Y Antibiotics,7,
+29,E. coli M9 Growth Media,7,
+30,Colony PCR,2,
+31,Temperature Gradient Test,2,
+32,Flow Cytometry for E. coli,4,
+33,Cell Lysate Production,7,
+34,Protein Production and Purification from Cell Lysate,7,
+35,Cell Culture Induction and Selection,7,
+36,Bundle1: Scarless Assembly and Cloning Fragments Provided: >2 pieces,10,1
+37,Bundle2: Scarless Assembly and Cloning: >2 pieces + Ordering,10,2
+38,Bundle3: Modular Assembly and Cloning Fragments Provided: >2 pieces,10,3
+39,Bundle4: Modular Assembly and Cloning: >2 pieces + Ordering,10,4
+40,Bundle5: BioBrick Assembly and Cloning Fragments Provided: >2 pieces,10,5
+41,Bundle6: BioBrick Assembly and Cloning: >2 pieces + Ordering,10,6
+42,Bundle7: RNA-Sequencing (NGS),10,7
+43,Bundle8: COVID-19 Testing,9,8
+44,"Bundle9: Protein Production, Purification, and Induction Bundle",10,9
+55,Bundle10: MonkeyPox Testing (coming soon),9,10
+56,Bundle11: Influenza B Testing (coming soon),9,11
